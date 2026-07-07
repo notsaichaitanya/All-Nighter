@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "mostlybusy.play.hosting",
-    "port": 8204,
+    "port":   26942,
     "version": "",
     "try-creative": false
   },
