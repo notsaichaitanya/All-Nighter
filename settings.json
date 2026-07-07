@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mostlybusy.play.hosting",
+    "ip": "62.141.62.30",
     "port":   26942,
     "version": "",
     "try-creative": false
